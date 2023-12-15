@@ -1,6 +1,8 @@
 ### Hi there 👋
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Drome586&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drome586&theme=xcode" /> </div>
+
 
 <!--
 **Drome586/Drome586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
