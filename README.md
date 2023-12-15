@@ -5,8 +5,6 @@
 <div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
 
-
-## My Skill Set  
 <table><tr><td valign="top" width="20%">
 
 <div align="center">  
