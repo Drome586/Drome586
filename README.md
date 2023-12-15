@@ -5,7 +5,7 @@
 <div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
 
-<table border=0><tr><td valign="top" width="20%">
+<table border=0><tr><td valign="top" width="10%">
 
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -13,7 +13,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="10%">
 
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -23,7 +23,7 @@
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="10%">
 
 <div align="center">  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
