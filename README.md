@@ -2,6 +2,8 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Drome586&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drome586&theme=xcode" /> </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
+
 
 
 <!--
