@@ -1,7 +1,9 @@
 ### Hi there 👋
 <div align="left"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" />
-  <img src="https://profile-counter.glitch.me/Drome586/count.svg" />
+<!--   <img src="https://profile-counter.glitch.me/Drome586/count.svg" /> -->
+  <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=yang-tian-hub" /> </div>
+
 </div>
 <!-- <div align="right"> <img src="https://profile-counter.glitch.me/Drome586/count.svg" /> </div> -->
 
