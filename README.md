@@ -5,7 +5,7 @@
   <img src="https://streak-stats.demolab.com?user=Drome586&theme=gruvbox&hide_border=true&card_width=400&hide_longest_streak=true" alt="GitHub Streak" /></a>  
 </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drome586&theme=xcode&radius=8" /> </div>
-<div align="center"> <img src="https://profile-counter.glitch.me/Drome586/count.svg" /> </div>
+<div align="right"> <img src="https://profile-counter.glitch.me/Drome586/count.svg" /> </div>
 
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
