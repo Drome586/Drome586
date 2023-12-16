@@ -1,4 +1,4 @@
-### Welcome To My GitHub Profile ! 👋 Good morning, and in case I don't see you, good afternoon, good evening, and good night! 🌟
+### Welcome To My GitHub Profile ! 👋 Good morning, and in case I don't see you, good afternoon, good evening, and good night! 🌟✨
 <div align="left"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;开心最重要!;天行健、君子以自强不息!&center=false&font=Roboto&size=15&color=22EA11FF" />
 </div>
@@ -8,6 +8,7 @@
 </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drome586&theme=xcode&radius=8" /> </div>
 
+### Skills
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
