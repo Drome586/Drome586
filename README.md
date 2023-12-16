@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Drome586&show_icons=true&theme=tokyonight" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Drome586" />  </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Drome586&show_icons=true&theme=tokyonight" /><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Drome586&theme=gruvbox&hide_border=true&card_width=400&hide_longest_streak=true" alt="GitHub Streak" /></a>  </div>
 <!-- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drome586" /> </div> -->
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drome586&theme=xcode&radius=8" /> </div>
 <div align="center"> <img src="https://profile-counter.glitch.me/Drome586/count.svg" /> </div>
