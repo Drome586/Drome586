@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="left"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;开心最重要!;天行健、君子以自强不息!&center=false&font=Roboto&size=15&color=95EA2FFF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;开心最重要!;天行健、君子以自强不息!&center=false&font=Roboto&size=15&color=22EA11FF" />
 <!--   <img src="https://profile-counter.glitch.me/Drome586/count.svg" /> -->
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=yang-tian-hub" /> </div> -->
 </div>
