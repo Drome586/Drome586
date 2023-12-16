@@ -1,9 +1,9 @@
 ### Hi there 👋
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Drome586&show_icons=true&theme=tokyonight" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drome586" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drome586&theme=xcode" /> </div>
 <div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
 
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
