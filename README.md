@@ -1,11 +1,8 @@
-### Hi there 👋
 <div align="left"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;开心最重要!;天行健、君子以自强不息!&center=false&font=Roboto&size=15&color=22EA11FF" />
-<!--   <img src="https://profile-counter.glitch.me/Drome586/count.svg" /> -->
-<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=yang-tian-hub" /> </div> -->
 </div>
-<!-- <div align="right"> <img src="https://profile-counter.glitch.me/Drome586/count.svg" /> </div> -->
-
+### Welcome To My GitHub Profile ! 👋
+Good morning, and in case I don't see you, good afternoon, good evening, and good night!
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Drome586&show_icons=true&theme=tokyonight&card_width=400" /><a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Drome586&theme=gruvbox&hide_border=true&card_width=400&hide_longest_streak=true" alt="GitHub Streak" /></a>  
