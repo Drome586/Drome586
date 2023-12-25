@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;开心最重要!;天行健、君子以自强不息!&center=false&font=Roboto&size=15&color=FFDC0DE5" />
 </div>
 <div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Drome586&theme=gruvbox&hide_border=true&card_width=350&hide_longest_streak=true" alt="GitHub Streak" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Drome586&show_icons=true&theme=tokyonight&card_width=350" /><a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Drome586&theme=gruvbox&hide_border=true&card_width=360&hide_longest_streak=true" alt="GitHub Streak" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Drome586&show_icons=true&theme=tokyonight&card_width=360" /><a href="https://git.io/streak-stats">
  
 </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drome586&theme=xcode&radius=8" /> </div>
